@@ -1,0 +1,3 @@
+Pacientes:
+Pacientes:
+Nombre: nu Apellido Paterno: w Apellido Materno: w Sexo: Hombre Edad: 22 Doctor: geo Con especialidad en: ninguna Fecha: 20/12/2023
